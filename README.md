@@ -60,6 +60,24 @@
     - **Licenza**: Non indicato
     - **Note**: Gradisce l'apertura di issue se si riscontra qualche problema.
 
+<br>
+
+- **Ercole** [Website](https://ercole.io/), [Repo Github](https://github.com/ercole-io/ercole) [Demo](https://demo.ercole.io/) [Gitter](https://gitter.im/ercole-io/community).
+    - **Mantainers:**
+        - Fabrizio Cirelli [Email](cirelli94@gmail.com), [Profilo GitHub](https://github.com/cirelli94), [@sorintlab](https://github.com/sorintlab),
+        - Amreo [Profilo GitHub](https://github.com/amreo),
+        - Tullio Bottiglieri [Profilo GitHub](https://github.com/tulliobotti64)
+    - **Descrizione**: Is a open-source software for proactive software asset management. Functionalities:
+        - Licensing always under control
+        - Proactive database optimization
+        - RMAN Backup policy
+        - PSU and RU advisor
+        - Database server CPU and storage capacity
+        - Auto filling of LMS Oracle audit file
+    - **Usa**: Go
+    - **Licenza**: GNU GPL v3 License | Copyright © 2019-present Sorint Lab SpA
+    - **Note**: Non indicato
+
 ## 🔗 Websites
 
 ## 🚧 Unsorted
