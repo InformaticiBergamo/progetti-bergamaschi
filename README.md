@@ -10,14 +10,15 @@
 
 ## 🤖 Bots
 
-- Nome del progetto [link-al-progetto](https://github.com/un-account-esempio/la-repo), [ilmioprogetto.it](https://ilmioprogetto.it)
-  - Mario Rossi [m.rossi@esempio.it](mailto:m.rossi@esempio.it), [esempio.it](esempio.it),
-  - Andrea Brambilla [a.brambilla@esempio2.it](mailto:a.brambilla@esempio2.it), [esempio2.it](esempio2.it),
-  - et al
-  Descrizione: Una breve descrizione del progetto, circa un paragrafo - indicando cosa esso fa e come lo fa.
-  Usa: HTML, JavaScript, Python\
-  Licenza: MIT 
-  Note: Accetta contributers. Cerca investimenti. Sta assumendo,
+- **Nome del progetto** [Repo GitHub](https://github.com/un-account-esempio/la-repo), [Website](https://ilmioprogetto.it)
+    - **Mantainers:**
+        - Mario Rossi [Email](mailto:m.rossi@esempio.it), [Website](esempio.it),
+        - Andrea Brambilla [Email](mailto:a.brambilla@esempio2.it), [Website](esempio2.it),
+        - et al.
+    - **Descrizione**: Una breve descrizione del progetto, circa un paragrafo - indicando cosa esso fa e come lo fa.
+    - **Usa**: HTML, JavaScript, Python.
+    - **Licenza**: MIT.
+    - **Note**: Accetta contributers. Cerca investimenti. Sta assumendo.
 
 ## 💰 Cryptocurrency
 
@@ -62,9 +63,9 @@
 
 <br>
 
-- **Ercole** [Website](https://ercole.io/), [Repo Github](https://github.com/ercole-io/ercole) [Demo](https://demo.ercole.io/) [Gitter](https://gitter.im/ercole-io/community).
+- **Ercole** [Website](https://ercole.io/), [Repo Github](https://github.com/ercole-io/ercole), [Demo](https://demo.ercole.io/), [Gitter](https://gitter.im/ercole-io/community).
     - **Mantainers:**
-        - Fabrizio Cirelli [Email](cirelli94@gmail.com), [Profilo GitHub](https://github.com/cirelli94), [@sorintlab](https://github.com/sorintlab),
+        - Fabrizio Cirelli [Email](mailto:cirelli94@gmail.com), [Profilo GitHub](https://github.com/cirelli94), [@sorintlab](https://github.com/sorintlab),
         - Amreo [Profilo GitHub](https://github.com/amreo),
         - Tullio Bottiglieri [Profilo GitHub](https://github.com/tulliobotti64)
     - **Descrizione**: Is a open-source software for proactive software asset management. Functionalities:
