@@ -34,6 +34,14 @@
 
 ## 📱 Mobile apps
 
+- **eeloo** [GitHub](https://github.com/siliconvallii/eeloo), [LinkTree](https://linktr.ee/eeloo)
+    - **Mantainers:**
+        - Filippo Valli [Email](mailto:filippovalli2003@gmail.com), [LinkedIn](https://www.linkedin.com/in/filippo-valli-521927217/)
+    - **Descrizione**: the open-source social network
+    - **Usa**: Dart, Flutter, Firebase, NodeJS
+    - **Licenza**: MIT.
+    - **Note**: Accetta contributers. Cerca co-founders.
+
 ## 🌐 Networking
 
 - **engarde** - Don't lose that packet! [Repo GitHub](https://github.com/porech/engarde), [Pagina Facebook](https://www.facebook.com/engarde-Dont-lose-that-packet-110039227317920).
